@@ -1,0 +1,15 @@
+site_name: "From imposter life to imposter moments"
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: orange
+  logo: assets/planet.png
+  favicon: assets/planet.png
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/cristimiddag
+  generator: false
+copyright: "Copyright &copy; 2022 Cristi Middag"
